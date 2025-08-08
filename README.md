@@ -57,20 +57,15 @@ python -m venv venv
 ### Linux/macOS
 ---
 
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 ---
+
 ### Install Dependencies
-
----
-
 pip install -r requirements.txt
 
----
 ### If no requirements.txt
-
----
 pip install numpy pandas scikit-learn matplotlib seaborn joblib
 
 ---
@@ -105,13 +100,6 @@ Optimal k selected via 5-fold cross-validation.
 ## 9. License
 This project is licensed under the MIT License — feel free to use, modify, and share.
 
-
----
-
-If you place this README in your `knn/` folder with:
-- `knn_k_selection.png`
-- `knn_confusion_matrix.png`
-- `knn_result.png` (terminal screenshot)  
 
 ---
 
