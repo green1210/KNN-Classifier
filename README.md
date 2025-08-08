@@ -44,15 +44,15 @@ git clone https://github.com/<green1210>/<your-repo>.git
 cd <your-repo>/knn
 ```
 
-## Create Virtual Environment (Recommended)
+## 5. Create Virtual Environment (Recommended)
 ```
-### Windows (PowerShell)
+Windows (PowerShell)
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 ### Linux/macOS
-- python3 -m venv venv
-- source venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 ### Install Dependencies
 pip install -r requirements.txt
@@ -62,7 +62,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn joblib
 ```
 ---
 
-## 5. How to Run
+## 6. How to Run
 
 ```
 python knn_classifier.py
@@ -70,7 +70,7 @@ python knn_classifier.py
 
 ---
 
-## 6. Outputs & Screenshots
+## 7. Outputs & Screenshots
 
 ### Best k Selection Plot
 Shows cross-validation accuracy for different k values.
