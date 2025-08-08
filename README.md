@@ -64,8 +64,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn joblib
 
 ## 5. How to Run
 
----
+```
 python knn_classifier.py
+```
 
 ---
 
