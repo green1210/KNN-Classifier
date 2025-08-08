@@ -78,7 +78,7 @@ python knn_classifier.py
 
 | Classification report |
 |------------------|
-| ![](./screenshots/.png) |
+| ![](./screenshots/Classfication_Report.png) |
 
 | Best k Selection Plot | Confusion Matrix |
 |------------------|-----------------|
