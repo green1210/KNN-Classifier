@@ -1,4 +1,4 @@
-<h1 align="center">KNN Classifier (Iris Dataset)</h1>
+## KNN Classifier (Iris Dataset)
 
 ## 📌 Project Overview
 This project implements a **K-Nearest Neighbors (KNN) classifier** on the classic **Iris dataset** using Python and scikit-learn.  
@@ -36,7 +36,7 @@ knn/
 
 ---
 
-## 4. Setup & Installation
+##  Setup & Installation
 
 ### Clone Repository
 ```bash
@@ -44,7 +44,7 @@ git clone https://github.com/<green1210>/<your-repo>.git
 cd <your-repo>/knn
 ```
 
-## 5. Create Virtual Environment (Recommended)
+## Create Virtual Environment (Recommended)
 ---
 ### Windows (PowerShell)
 ```
@@ -66,7 +66,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn joblib
 ```
 ---
 
-## 6. How to Run
+## How to Run
 
 ```
 python knn_classifier.py
@@ -74,7 +74,7 @@ python knn_classifier.py
 
 ---
 
-## 7. Outputs & 📸 Screenshots
+## 📸 Screenshots
 
 | Classification report |
 |------------------|
@@ -86,14 +86,14 @@ python knn_classifier.py
 
 ---
 
-## 8. Results
+## Results
 Achieved ~97% accuracy on the Iris test set (may vary per run).
 
 Optimal k selected via 5-fold cross-validation.
 
 ---
 
-## 9. License
+## 📜 License
 This project is licensed under the MIT License — feel free to use, modify, and share.
 
 
