@@ -94,6 +94,16 @@ Example run showing accuracy, classification report, and chosen k.
   <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
 </p>
 
+## 📸 Screenshots
+
+| Classification report |
+|------------------|
+| ![](./screenshots/.png) |
+
+| Best k Selection Plot | Confusion Matrix |
+|------------------|-----------------|
+| ![](./screenshots/k vs cross validation accuracy.png) | ![](./screenshots/confusion matrix.png) |
+
 ---
 
 ## 8. Results
