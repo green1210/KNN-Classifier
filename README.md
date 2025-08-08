@@ -45,7 +45,7 @@ cd <your-repo>/knn
 ```
 
 ## 5. Create Virtual Environment (Recommended)
-```
+---
 ### Windows (PowerShell)
 ```
 python -m venv venv
