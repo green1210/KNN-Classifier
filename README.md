@@ -78,12 +78,21 @@ python knn_classifier.py
 
 ### Best k Selection Plot
 Shows cross-validation accuracy for different k values.
+<p align="center">
+  <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
+</p>
 
 ### Confusion Matrix
 Visualizes classification performance per class.
+<p align="center">
+  <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
+</p>
 
 ### Terminal Output
 Example run showing accuracy, classification report, and chosen k.
+<p align="center">
+  <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
+</p>
 
 ---
 
