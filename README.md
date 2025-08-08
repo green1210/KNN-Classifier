@@ -47,20 +47,12 @@ cd <your-repo>/knn
 ## Create Virtual Environment (Recommended)
 
 ### Windows (PowerShell)
----
-
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 
----
-
 ### Linux/macOS
----
-
 - python3 -m venv venv
 - source venv/bin/activate
-
----
 
 ### Install Dependencies
 pip install -r requirements.txt
