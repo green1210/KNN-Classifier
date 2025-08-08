@@ -82,7 +82,7 @@ python knn_classifier.py
 
 | Best k Selection Plot | Confusion Matrix |
 |------------------|-----------------|
-| ![](./screenshots/k vs cross validation accuracy.png) | ![](./screenshots/confusion matrix.png) |
+| ![](./screenshots/validation_accuracy.png) | ![](./screenshots/confusion_matrix.png) |
 
 ---
 
