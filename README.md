@@ -45,7 +45,7 @@ cd <your-repo>/knn
 ```
 
 ## Create Virtual Environment (Recommended)
-
+```
 ### Windows (PowerShell)
 python -m venv venv
 .\venv\Scripts\Activate.ps1
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ### If no requirements.txt
 pip install numpy pandas scikit-learn matplotlib seaborn joblib
-
+```
 ---
 
 ## 5. How to Run
