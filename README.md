@@ -22,6 +22,8 @@ It includes:
 ---
 
 ## 📂 Project Structure
+
+```
 knn/
 │── knn_classifier.py # Main script
 │── knn_k_selection.png # CV accuracy vs k plot
@@ -29,5 +31,7 @@ knn/
 │── knn_model.joblib # Saved trained model
 │── knn_scaler.joblib # Saved scaler for preprocessing
 │── README.md # This file
+
+```
 
 ---
