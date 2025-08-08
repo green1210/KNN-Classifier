@@ -29,3 +29,5 @@ knn/
 │── knn_model.joblib # Saved trained model
 │── knn_scaler.joblib # Saved scaler for preprocessing
 │── README.md # This file
+
+---
