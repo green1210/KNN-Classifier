@@ -1,5 +1,4 @@
-# KNN Classifier (Iris Dataset)
-<h1 align="center"># KNN Classifier (Iris Dataset)</h1>
+<h1 align="center">KNN Classifier (Iris Dataset)</h1>
 
 ## 📌 Project Overview
 This project implements a **K-Nearest Neighbors (KNN) classifier** on the classic **Iris dataset** using Python and scikit-learn.  
