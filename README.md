@@ -51,17 +51,17 @@ cd <your-repo>/knn
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
-```
 ### Linux/macOS
+```
 python3 -m venv venv
 source venv/bin/activate
 ```
-```
 ### Install Dependencies
+```
 pip install -r requirements.txt
 ```
-```
 ### If no requirements.txt
+```
 pip install numpy pandas scikit-learn matplotlib seaborn joblib
 ```
 ---
